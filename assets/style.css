@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+}
+
+header p {
+    font-size: 24px;
+    font-style: oblique;
+}
+
+body {
+    background-color: beige;
+}
+
+#quiz {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 100px;
+}
